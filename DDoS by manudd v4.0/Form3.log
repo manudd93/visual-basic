@@ -1,0 +1,19 @@
+Line 172: Class SHDocVwCtl.WebBrowser of control WebBrowser1 was not a loaded control class.
+Line 178: The property name ExtentX in WebBrowser1 is invalid.
+Line 179: The property name ExtentY in WebBrowser1 is invalid.
+Line 180: The property name ViewMode in WebBrowser1 is invalid.
+Line 181: The property name Offline in WebBrowser1 is invalid.
+Line 182: The property name Silent in WebBrowser1 is invalid.
+Line 183: The property name RegisterAsBrowser in WebBrowser1 is invalid.
+Line 184: The property name RegisterAsDropTarget in WebBrowser1 is invalid.
+Line 185: The property name AutoArrange in WebBrowser1 is invalid.
+Line 186: The property name NoClientEdge in WebBrowser1 is invalid.
+Line 187: The property name AlignLeft in WebBrowser1 is invalid.
+Line 188: The property name NoWebView in WebBrowser1 is invalid.
+Line 189: The property name HideFileNames in WebBrowser1 is invalid.
+Line 190: The property name SingleClick in WebBrowser1 is invalid.
+Line 191: The property name SingleSelection in WebBrowser1 is invalid.
+Line 192: The property name NoFolders in WebBrowser1 is invalid.
+Line 193: The property name Transparent in WebBrowser1 is invalid.
+Line 194: The property name ViewID in WebBrowser1 is invalid.
+Line 195: The property name Location in WebBrowser1 is invalid.
