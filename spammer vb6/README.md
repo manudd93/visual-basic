@@ -1,0 +1,1 @@
+Un Semplice spammer creato in vb6 , non fa altro che mettere il testo che vuoi spammare andare in qualsiasi chat o altro e non fa altro che premere invio all infinito
