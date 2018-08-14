@@ -1,0 +1,22 @@
+Line 40: Class MSWinsockLib.Winsock of control Winsock1 was not a loaded control class.
+Line 47: Class CoolXPButton.xpButton of control xpButton3 was not a loaded control class.
+Line 93: Class CoolXPButton.xpButton of control xpButton2 was not a loaded control class.
+Line 130: Class CoolXPButton.xpButton of control xpButton1 was not a loaded control class.
+Line 43: The property name _ExtentX in Winsock1 is invalid.
+Line 44: The property name _ExtentY in Winsock1 is invalid.
+Line 45: The property name _Version in Winsock1 is invalid.
+Line 53: The property name _ExtentX in xpButton3 is invalid.
+Line 54: The property name _ExtentY in xpButton3 is invalid.
+Line 55: The property name Caption in xpButton3 is invalid.
+Line 73: The property name FontOnMouseOver in xpButton3 is invalid.
+Line 82: The property name FontDown in xpButton3 is invalid.
+Line 99: The property name _ExtentX in xpButton2 is invalid.
+Line 100: The property name _ExtentY in xpButton2 is invalid.
+Line 101: The property name Caption in xpButton2 is invalid.
+Line 119: The property name FontOnMouseOver in xpButton2 is invalid.
+Line 128: The property name FontDown in xpButton2 is invalid.
+Line 136: The property name _ExtentX in xpButton1 is invalid.
+Line 137: The property name _ExtentY in xpButton1 is invalid.
+Line 138: The property name Caption in xpButton1 is invalid.
+Line 156: The property name FontOnMouseOver in xpButton1 is invalid.
+Line 165: The property name FontDown in xpButton1 is invalid.
